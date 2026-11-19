@@ -2,7 +2,7 @@
 
 The combat calculation scripts from the GameDevBox video **"Stop Writing Nested Ifs in C#: Modern Pattern Matching in 2 Minutes"**
 
-▶️ Watch the video: [[https://youtu.be/VIDEO_ID](https://youtu.be/4R4kFtTIkD8)]
+▶️ Watch the video: [Modern C# Pattern Matching & Switch Expressions](https://youtu.be/4R4kFtTIkD8)]
 
 | Script | What it shows |
 | --- | --- |
